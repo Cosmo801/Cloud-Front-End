@@ -1,0 +1,36 @@
+#home-page{
+
+    width: 100%;
+    background-color:#DFEDFF;
+
+    
+    min-height: 1000px;
+}
+
+#home-page h4, h3, p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.info-item > span > h4,i{
+    display: inline-block;
+}
+
+.info-item > span > i{
+    font-size: 1.3em;
+    color: black;
+
+}
+
+.info-item > h4,p{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.news-of-the-day{
+    padding-top: 75px;
+}
+
+.progress-row{
+    padding-top: 75px;
+}
